@@ -8,6 +8,7 @@ int x(int a, int b) {
 
 int main() {
     int result = x(4, 60);
-    cout << "Result = " << result << endl;
+    cout << "Result = " << result << endl;//output 120
 
 }
+
